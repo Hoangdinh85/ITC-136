@@ -1,0 +1,34 @@
+Complied binaries
+-C, C++,C#, Fortran, and Java
+Machine code
+-- 1's and 0's
+"Scripting"
+--PHP, Python. Bash
+
+What rin using Linux?
+Hardware, motherboard, ram, CPU, video, and Ect.
+
+OS Kernel
+-assigning cpu time to processed
+-memory allocation
+-what it processes
+-additional resources
+
+micro kernels -micro kernels inside the kernel
+Kernel moduals - add support for new hardware
+
+Unix-->minux-->Linux-->GNU-->Stalman
+  v
+Bell Labs
+  v
+UC Berkeley
+  v
+Copywrite
+  v
+BSD-Berkeley software distribution (achedemia of unix)
+
+BSD-->1993 free BSD
+   -->Net BSD
+   -->Open BSD
+   -->Security-Centric
+      -BSD "jails" Chrooting

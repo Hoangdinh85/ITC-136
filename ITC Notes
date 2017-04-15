@@ -1,0 +1,56 @@
+Complied binaries
+-C, C++,C#, Fortran, and Java
+Machine code
+-- 1's and 0's
+"Scripting"
+--PHP, Python. Bash
+
+What rin using Linux?
+Hardware, motherboard, ram, CPU, video, and Ect.
+
+OS Kernel
+-assigning cpu time to processed
+-memory allocation
+-what it processes
+-additional resources
+
+micro kernels -micro kernels inside the kernel
+Kernel moduals - add support for new hardware
+
+Unix-->minux-->Linux-->GNU-->Stalman
+  v
+Bell Labs
+  v
+UC Berkeley
+  v
+Copywrite
+  v
+BSD-Berkeley software distribution (achedemia of unix)
+
+BSD-->1993 free BSD
+  -->Net BSD
+  -->Open BSD
+  -->Security-Centric
+  -->BSD "jails" Chrooting
+Ubuntu--> Canonical (extremely userfriendly for Linux)
+      
+Redhat
+-CentOS
+-Fedora
+SuSE -Desktop and server intigation
+-OpenSuSe
+
+HyperV on Ubuntu
+-apt-get(package manegment system) allow you to add different package from the respositories inline.
+   (it'll track updates as package are added to the repostories.)
+-search terminal
+-apt-get update
+-apt-get install
+-apt-get install kde (kde us window managment system)
+-apt-get install kde-baseapps
+
+Kubuntu- Ubuntu's own version code
+
+apt-cache search - search all packages with any keyword.
+
+Dpkg -used to remove any package or plugin

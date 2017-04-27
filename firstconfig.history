@@ -1,0 +1,39 @@
+    1  sudo su
+    2  ps
+    3  ps aux
+    4  ps aux | more
+    5  PS AUX | MORE
+    6  ps aux |more
+    7  ps aux | grep firefox
+    8  kill 2259
+    9  ps aux | grep terminal
+   10  kill 1867
+   11  top
+   12  lsof |more
+   13  sudo su
+   14  /usr/bin libreoffice&
+   15  /usr/bin/libreoffice&
+   16  ls
+   17  ls /
+   18  ls -l
+   19  rwxrwxrwx owner group everyone/noone
+   20  chmod 
+   21  chmod --help'
+   22  q
+   23  chmod --help'
+   24  q
+   25  ls -l /usr/bin/libreoffice
+   26  chmod 644/usr/bin/libreoffice
+   27  chmod 644/usr/bin/libreoffice/program
+   28  sudo su
+   29  git
+   30  git clone https://github.com/Hoangdinh85/ITC-136.git
+   31  ls
+   32  cd ITC-136
+   33  ls
+   34  cd ITC-136
+   35  git config --global user.email "hdinh47056@gmail.com"
+   36  git config --global user.name"hoangdinh85"
+   37  git config --global user.name "hoangdinh85"
+   38  ls -l
+   39  history >> firstconfig.history
